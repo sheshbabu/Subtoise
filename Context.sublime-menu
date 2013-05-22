@@ -1,0 +1,7 @@
+[
+    { "caption": "-" },
+    { "command": "subtoise_diff", "caption": "SVN Diff" },
+    { "command": "subtoise_update", "caption": "SVN Update" },
+    { "command": "subtoise_commit", "caption": "SVN Commit" },
+    { "caption": "-", "id": "end" }
+]
