@@ -34,3 +34,6 @@ class SubtoiseUpdateCommand(sublime_plugin.TextCommand, Subtoise):
 class SubtoiseCommitCommand(sublime_plugin.TextCommand, Subtoise):
 	def run(self, edit):
 		self.run_command("/command:commit")
+class SubtoiseLogCommand(sublime_plugin.TextCommand, Subtoise):
+	def run(self, edit):
+		self.run_command("/command:log")		
