@@ -2,6 +2,7 @@
     { "caption": "-" },
     { "command": "subtoise_diff", "caption": "SVN Diff" },
     { "command": "subtoise_update", "caption": "SVN Update" },
+    { "command": "subtoise_log", "caption": "SVN Log" },
     { "command": "subtoise_commit", "caption": "SVN Commit" },
     { "caption": "-", "id": "end" }
 ]
